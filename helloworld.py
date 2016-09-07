@@ -1,7 +1,7 @@
 """
 helloworld.py
 Author: <Brian Seltzer>
-Credit: <list sources used, if any>
+Credit: <Wilson>
 
 Assignment:
 
